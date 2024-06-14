@@ -6,8 +6,8 @@ import { Transactions } from "./pages/Transactions";
 export function App() {
   return (
     <ThemeProvider theme={defaultTheme}>
-      <GlobalStyle/>
-      <Transactions/>
+      <GlobalStyle />
+      <Transactions />
     </ThemeProvider>
   );
 }
