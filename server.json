@@ -15,6 +15,38 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2024-06-14T18:56:22.834Z"
+    },
+    {
+      "description": "Venda de App",
+      "type": "income",
+      "category": "Venda",
+      "price": 10000,
+      "createdAt": "2024-06-16T23:23:46.232Z",
+      "id": 3
+    },
+    {
+      "description": "Curso DNC",
+      "type": "income",
+      "category": "Educação",
+      "price": 5000,
+      "createdAt": "2024-06-16T23:24:10.886Z",
+      "id": 4
+    },
+    {
+      "description": "Curso DNC",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 5000,
+      "createdAt": "2024-06-16T23:24:14.484Z",
+      "id": 5
+    },
+    {
+      "description": "Iogurte",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 1000,
+      "createdAt": "2024-06-16T23:38:57.501Z",
+      "id": 6
     }
   ]
 }
